@@ -1,345 +1,53 @@
 {
-
-"status": true,
-
-"data": [
-
-{
-
-"createDate": 1511511,
-
-"createBy": "张三",
-
-"lastUpdateDate": "湖北",
-
-"lastUpdateBy": "武汉",
-
-"groupId": "CEO",
-
-"groupNameCn": "一级",
-
-"groupNameEn": "Busine",
-
-"groupName": "B类型",
-
-"groupDesc": "2017/12/11",
-
-"groupNameFn":"处理中",
-
-"groupNameGn":"吴晓萌",
-
-"groupBy":"OK"
-
-},
-
-{
-
-"createDate": 1511511,
-
-"createBy": "张三",
-
-"lastUpdateDate": "湖北",
-
-"lastUpdateBy": "武汉",
-
-"groupId": "CEO",
-
-"groupNameCn": "一级",
-
-"groupNameEn": "Busine",
-
-"groupName": "B类型",
-
-"groupDesc": "2017/12/11",
-
-"groupNameFn":"处理中",
-
-"groupNameGn":"吴晓萌",
-
-"groupBy":"OK"
-
-},
-
-{
-
-"createDate": 1511511,
-
-"createBy": "张三",
-
-"lastUpdateDate": "湖北",
-
-"lastUpdateBy": "武汉",
-
-"groupId": "CEO",
-
-"groupNameCn": "一级",
-
-"groupNameEn": "Busine",
-
-"groupName": "B类型",
-
-"groupDesc": "2017/12/11",
-
-"groupNameFn":"处理中",
-
-"groupNameGn":"吴晓萌",
-
-"groupBy":"OK"
-
-},
-
-{
-
-"createDate": 1511511,
-
-"createBy": "张三",
-
-"lastUpdateDate": "湖北",
-
-"lastUpdateBy": "武汉",
-
-"groupId": "CEO",
-
-"groupNameCn": "一级",
-
-"groupNameEn": "Busine",
-
-"groupName": "B类型",
-
-"groupDesc": "2017/12/11",
-
-"groupNameFn":"处理中",
-
-"groupNameGn":"吴晓萌",
-
-"groupBy":"OK"
-
-},
-
-{
-
-"createDate": 1511511,
-
-"createBy": "张三",
-
-"lastUpdateDate": "湖北",
-
-"lastUpdateBy": "武汉",
-
-"groupId": "CEO",
-
-"groupNameCn": "一级",
-
-"groupNameEn": "Busine",
-
-"groupName": "B类型",
-
-"groupDesc": "2017/12/11",
-
-"groupNameFn":"处理中",
-
-"groupNameGn":"吴晓萌",
-
-"groupBy":"OK"
-
-},
-
-{
-
-"createDate": 1511511,
-
-"createBy": "张三",
-
-"lastUpdateDate": "湖北",
-
-"lastUpdateBy": "武汉",
-
-"groupId": "CEO",
-
-"groupNameCn": "一级",
-
-"groupNameEn": "Busine",
-
-"groupName": "B类型",
-
-"groupDesc": "2017/12/11",
-
-"groupNameFn":"处理中",
-
-"groupNameGn":"吴晓萌",
-
-"groupBy":"OK"
-
-},
-
-{
-
-"createDate": 1511511,
-
-"createBy": "张三",
-
-"lastUpdateDate": "湖北",
-
-"lastUpdateBy": "武汉",
-
-"groupId": "CEO",
-
-"groupNameCn": "一级",
-
-"groupNameEn": "Busine",
-
-"groupName": "B类型",
-
-"groupDesc": "2017/12/11",
-
-"groupNameFn":"处理中",
-
-"groupNameGn":"吴晓萌",
-
-"groupBy":"OK"
-
-},
-
-{
-
-"createDate": 1511511,
-
-"createBy": "张三",
-
-"lastUpdateDate": "湖北",
-
-"lastUpdateBy": "武汉",
-
-"groupId": "CEO",
-
-"groupNameCn": "一级",
-
-"groupNameEn": "Busine",
-
-"groupName": "B类型",
-
-"groupDesc": "2017/12/11",
-
-"groupNameFn":"处理中",
-
-"groupNameGn":"吴晓萌",
-
-"groupBy":"OK"
-
-},
-
-{
-
-"createDate": 1511511,
-
-"createBy": "张三",
-
-"lastUpdateDate": "湖北",
-
-"lastUpdateBy": "武汉",
-
-"groupId": "CEO",
-
-"groupNameCn": "一级",
-
-"groupNameEn": "Busine",
-
-"groupName": "B类型",
-
-"groupDesc": "2017/12/11",
-
-"groupNameFn":"处理中",
-
-"groupNameGn":"吴晓萌",
-
-"groupBy":"OK"
-
-},
-
-{
-
-"createDate": 1511511,
-
-"createBy": "张三",
-
-"lastUpdateDate": "湖北",
-
-"lastUpdateBy": "武汉",
-
-"groupId": "CEO",
-
-"groupNameCn": "一级",
-
-"groupNameEn": "Busine",
-
-"groupName": "B类型",
-
-"groupDesc": "2017/12/11",
-
-"groupNameFn":"处理中",
-
-"groupNameGn":"吴晓萌",
-
-"groupBy":"OK"
-
-},
-
-{
-
-"createDate": 1511511,
-
-"createBy": "张三",
-
-"lastUpdateDate": "湖北",
-
-"lastUpdateBy": "武汉",
-
-"groupId": "CEO",
-
-"groupNameCn": "一级",
-
-"groupNameEn": "Busine",
-
-"groupName": "B类型",
-
-"groupDesc": "2017/12/11",
-
-"groupNameFn":"处理中",
-
-"groupNameGn":"吴晓萌",
-
-"groupBy":"OK"
-
-},
-
-{
-
-"createDate": 1511511,
-
-"createBy": "张三",
-
-"lastUpdateDate": "湖北",
-
-"lastUpdateBy": "武汉",
-
-"groupId": "CEO",
-
-"groupNameCn": "一级",
-
-"groupNameEn": "Busine",
-
-"groupName": "B类型",
-
-"groupDesc": "2017/12/11",
-
-"groupNameFn":"处理中",
-
-"groupNameGn":"吴晓萌",
-
-"groupBy":"OK"
-
-}
-
-]
-
+  "users": [
+    {
+      "name": "王小婷",
+      "phone": "123456789",
+      "email": "11357097537@qq.com",
+      "age": "20",
+      "id": 1,
+      "companyId": 1
+    },
+    {
+      "name": "祈澈菇凉",
+      "phone": "123456789",
+       "email": "11357097537@qq.com",
+      "age": "30",
+      "id": 2,
+      "companyId": 2
+    },
+    {
+      "name": "最帅的坏兔子",
+      "phone": "123456789",
+       "email": "11357097537@qq.com",
+      "age": "23",
+      "id": 3,
+      "companyId": 3
+    },
+    {
+      "name": "安安",
+      "phone": "123456789",
+      "email": "11357097537@qq.com",
+      "age": "45",
+      "id": 4,
+      "companyId": 3
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple lalala!"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "description": "Microsoft lalala!"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "description": "Google lalala!"
+    }
+  ]
 }
